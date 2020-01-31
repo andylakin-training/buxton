@@ -3,3 +3,4 @@ coffee
 lemsip
 tea
 pepsi
+beer
